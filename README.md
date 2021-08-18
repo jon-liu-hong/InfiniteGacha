@@ -3,7 +3,7 @@
 Infinite Gacha is an open-source Unity platform for experimenting with loot boxes, it is based upon Infinite Loot Box by D.Kao.
 Infinite Loot Box: https://github.com/kalikao/InfiniteLootBox
 
-Demonstration: https://www.youtube.com/watch?v=iJHpb2MkVpk&feature=youtu.be.
+Demonstration: https://youtu.be/MpUcOohgA-0
 
 ## Parameters
 
